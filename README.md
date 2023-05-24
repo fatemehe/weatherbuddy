@@ -1,6 +1,6 @@
 # weatherbuddy
 # Project Overview:
-WeatherBuddy is a Spring Boot application that provides weather information using data from OpenWeather.
+WeatherBuddy is a Spring Boot application that provides weather information using data from [OpenWeather](https://openweathermap.org/api).
 The project aims to offer current weather, forecast, and historical weather data through RESTful APIs.
 
 # Build and Run the Project:
